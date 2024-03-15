@@ -1,0 +1,15 @@
+# conda env create -f environment.yaml ; conda activate nb_research
+name: nb_research
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12.0
+  - numpy=1.26.2
+  - statsmodels=0.14.1
+  - scipy=1.11.4
+  - scikit-learn=1.3.2
+  - matplotlib=3.8.2
+  - pandas=2.1.4
+  - quantstats=0.0.62

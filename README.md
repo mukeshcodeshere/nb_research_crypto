@@ -1,6 +1,5 @@
-# nb_research_crypto
-Arbitrage Strategies Research for NB
+# Arbitrage Strategies Research for NB
 
 ## Create and Activate environment 
-conda env create -f environment.yaml
-conda activate nb_research
+1) conda env create -f environment.yaml
+2) conda activate nb_research
